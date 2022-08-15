@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "react-pro-leve",
+    "slug": "react-pro-leve",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
